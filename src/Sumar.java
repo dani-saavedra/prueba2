@@ -1,7 +1,7 @@
 public class Sumar {
 
 
-    void sumar() {
-        System.out.println("Suma numeros");
+    int sumar(int x, int z) {
+        return x + z;
     }
 }
